@@ -1,1 +1,4 @@
 # kotlin-workshop
+
+
+`./gradlew bootRun`
